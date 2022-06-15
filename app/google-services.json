@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704882338172",
+    "firebase_url": "https://login-43efd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "login-43efd",
+    "storage_bucket": "login-43efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704882338172:android:0dedb8a4ac98114191dcf9",
+        "android_client_info": {
+          "package_name": "me.arnaumas.appgeorgina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704882338172-pb4m0i0ev7un4i6ll2da2r4gg16i26f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mgu-D09V_1G_aYtMxZ8siZDlckix34Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704882338172-pb4m0i0ev7un4i6ll2da2r4gg16i26f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
